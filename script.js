@@ -234,7 +234,6 @@ function reload() {
     })
 }
 
-
 //Aggiornamento dei dati con un timer
 /*btnAggiorna.onclick = () => {
   console.log("click")

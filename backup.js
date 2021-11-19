@@ -14,7 +14,6 @@ var interval;
 
 
 
-
 //fetch("https://python-iot-sim.professorandrea.repl.co")
 //https://python-iot-sim.professorandrea.repl.co
 fetch("https://hf3xzw.deta.dev/")
