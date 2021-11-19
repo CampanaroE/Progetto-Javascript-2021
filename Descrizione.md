@@ -1,3 +1,4 @@
+### Campanaro Emanuele 5AI 
 # 2021 progetto javascript TPI sensori
 Il programma prende i dati dei sensori **attraverso** il metodo **fetch()** dalla pagina fornitaci.
 
